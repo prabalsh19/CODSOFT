@@ -131,3 +131,7 @@ button {
 .bold {
   font-weight: bold;
 }
+.footer p {
+  margin-left: 3rem;
+  text-align: center;
+}
